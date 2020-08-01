@@ -1,11 +1,10 @@
 import React from "react";
-import "./App.css";
-import Animation from "./components/Animation";
+import RedQueenRace from "./RedQueenRace";
 
 function App() {
   return (
     <div>
-      <Animation />
+      <RedQueenRace />
     </div>
   );
 }
